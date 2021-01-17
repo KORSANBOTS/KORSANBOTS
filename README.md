@@ -1,16 +1,4 @@
-### Hi there 👋
-
-<!--
-**KORSANBOTS/KORSANBOTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+اهلا بكم في سورس قرصان✨
+سورس سريع و مميزاته عديده🚀
+مطور سورس قرصان لايون👨‍✈️
+معرف المطور📇 https://t.me/KOR7T
